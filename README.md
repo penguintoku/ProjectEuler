@@ -1,6 +1,3 @@
-# ProjectEuler
-HackerRank: ProjectEuler+
-
 My Solution to HackerRank in Java: ProjectEuler+ from https://projecteuler.net/
 
 Why did I do it in Java? Very good question. Will, if you did it C++ where
