@@ -1,8 +1,8 @@
 # ProjectEuler+
 
 My Solution to HackerRank in Java (and Java only).
-For more detail information, please follow the site below.
-[Project Euler](https://projecteuler.net/) Trust me, not a weird site.
+For more detail information, please [click here](https://projecteuler.net/).
+Trust me, not a weird site.
 
 ##Why in Java?
 Very good question. Will, if you did it in C++ where there is
